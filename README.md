@@ -91,7 +91,8 @@ Experience **808Max** in action:
 Master’s in Audio and Music Technology  
 University of York  
 
- 
+Contact: *[jaysonchen816@gmail.com]*  
+
 ---
 
 ## 📜 License
