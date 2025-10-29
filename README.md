@@ -81,7 +81,7 @@ The signal flow of 808Max moves through four core stages. It begins with global 
 ##  Demo Video
 
 Experience **808Max** in action:  
-▶️ [Watch the 808Max Demo Video]([https://youtu.be/your_video_link_here](https://youtu.be/ZfJ-HfxT5DA?si=645u2l-Ezt4ePwPP))  
+▶️[Watch the 808Max Demo Video](https://youtu.be/ZfJ-HfxT5DA?si=645u2l-Ezt4ePwPP)
 
 ---
 
@@ -90,7 +90,6 @@ Experience **808Max** in action:
 **Jayson Chen**  
 Master’s in Audio and Music Technology  
 University of York  
-
 
  
 ---
